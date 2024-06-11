@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		z2JloZxyWXk89EgRnG1EZWEFAAg=
+		FTU2euwvCquvjiDGcLe8thDjAS0=
 		</data>
 		<key>Headers/SpotImCore-Swift.h</key>
 		<data>
-		MXP5C+g2SnNQJ3c2Lb2kjwYKObM=
+		ZUX2ae/2n9hbDiwHF5iPWNRsyTI=
 		</data>
 		<key>Headers/SpotImCore.h</key>
 		<data>
@@ -18,47 +18,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4PBr0NCHrzC1fDgVW9YQRWDCUb0=
+		lBxxBEtbIwkqAoAKfntQdSPkc3Y=
 		</data>
 		<key>Modules/SpotImCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZYzAbw0CMNFM1rxaI4VZufDB7NM=
+		rvmtRss0O2pWa0sHeYcxPVMZChw=
 		</data>
 		<key>Modules/SpotImCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		UJHmjp59t110Enu0krCFvSIt2Qg=
+		9vN/5oPtbQeuJPreKgx9SbVamXY=
 		</data>
 		<key>Modules/SpotImCore.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ZDD+yTGoOtDiLoI5m6oeN+VKIdQ=
+		o5+ZnwSDKZc4WHnnYdwYLiwKrNw=
 		</data>
 		<key>Modules/SpotImCore.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		UJHmjp59t110Enu0krCFvSIt2Qg=
+		9vN/5oPtbQeuJPreKgx9SbVamXY=
 		</data>
 		<key>Modules/SpotImCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		k5HLBi1xX8LF6Vep2rhCkeC0K2I=
+		IEyzryibR47/7vzlnlkponLx2Xo=
 		</data>
 		<key>Modules/SpotImCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZYzAbw0CMNFM1rxaI4VZufDB7NM=
+		rvmtRss0O2pWa0sHeYcxPVMZChw=
 		</data>
 		<key>Modules/SpotImCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		8cLXmgfXhE4SGYArFTGrocQUHvU=
+		WR0dV4+X73kIBYuwJ4idki6Ap/o=
 		</data>
 		<key>Modules/SpotImCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		q15HBb2p8RXnP/t2pNP93cYiWSI=
+		0RT0juFnnyZouicmvQ7TeZavrw8=
 		</data>
 		<key>Modules/SpotImCore.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		8cLXmgfXhE4SGYArFTGrocQUHvU=
+		WR0dV4+X73kIBYuwJ4idki6Ap/o=
 		</data>
 		<key>Modules/SpotImCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5zsvYDy4x3yQCYyirAw8rztwxnU=
+		tBetKo0ZrgifUdP2PCb1TM2ihIQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -86,7 +86,11 @@
 		</data>
 		<key>OpenWebSettings.plist</key>
 		<data>
-		plonarOzyaOkpFq/U4byqCmwK9Q=
+		/OZrVKaA2xJ6boxfIhHRT18oirQ=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		6cn16qeRtqMswgQTHmFIVkoIXPQ=
 		</data>
 		<key>ar-001.lproj/Localizable.strings</key>
 		<dict>
@@ -157,14 +161,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5VtYtfrrbc+nEFNVHwijLrx71Y2GTaCgGIpaVCqRriw=
+			EYeoEoy50akgj8Pxu/xLDi0PHfXdGoaT/NjAOXecy6c=
 			</data>
 		</dict>
 		<key>Headers/SpotImCore-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VoHT96aeswjBmh4bh4INH8/vCT2bQycMUMxvM4jZoQQ=
+			gm3ZcTFy5GzOD08b5wcYc9WKKUZqlmsF6nLCVd87Cow=
 			</data>
 		</dict>
 		<key>Headers/SpotImCore.h</key>
@@ -178,70 +182,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fy28WC2o3UL+tAVdPk8qBoDKhLBMIiuacB6WE1ObU+8=
+			cMvktQVVSLD+1i5dORtrMGRruU5YZLUoBn5YNNf+aoc=
 			</data>
 		</dict>
 		<key>Modules/SpotImCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pd8nnZqCVvMkCvJW804cvCS3XcrIFWTV0Xra8nxyCV0=
+			AGb2TKOl0B3HAv+YC2Ck38sd2fgeEMZZB2Ql4ktzXv4=
 			</data>
 		</dict>
 		<key>Modules/SpotImCore.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ql/tBVqOliU+Lb4nHOrN9gxj42OKKlb1ZAEnfsxR5dA=
+			rlHE1p95K6igtMezsrUDN+OIqBvK7xdWRVpPzg5xHSk=
 			</data>
 		</dict>
 		<key>Modules/SpotImCore.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pd8nnZqCVvMkCvJW804cvCS3XcrIFWTV0Xra8nxyCV0=
+			AGb2TKOl0B3HAv+YC2Ck38sd2fgeEMZZB2Ql4ktzXv4=
 			</data>
 		</dict>
 		<key>Modules/SpotImCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uJ/NuSwlGT3gVh2Lmu+lZ6luY1nWb1yZvaVtsqf3GW4=
+			fQECzkDm34f35nOMS78CdksvONi3h1se6sQB8gBkdEQ=
 			</data>
 		</dict>
 		<key>Modules/SpotImCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fy28WC2o3UL+tAVdPk8qBoDKhLBMIiuacB6WE1ObU+8=
+			cMvktQVVSLD+1i5dORtrMGRruU5YZLUoBn5YNNf+aoc=
 			</data>
 		</dict>
 		<key>Modules/SpotImCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mdi3jWYbT14opFrlHWEO1KHgbTjRQxXlQm+U2kEl37E=
+			uAu8xTOzsFcWruMlDoC+b8HWQNHMvAhies80tEfIJI0=
 			</data>
 		</dict>
 		<key>Modules/SpotImCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oOLJ8VsgE88XEsaWy8PIIMtHejKDgXUQ9U9zGYuhClU=
+			zJGqhURsw7JriwTSSHOxzIqmWgmA02A2aGbI61fKDrw=
 			</data>
 		</dict>
 		<key>Modules/SpotImCore.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mdi3jWYbT14opFrlHWEO1KHgbTjRQxXlQm+U2kEl37E=
+			uAu8xTOzsFcWruMlDoC+b8HWQNHMvAhies80tEfIJI0=
 			</data>
 		</dict>
 		<key>Modules/SpotImCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i5lnhQivSUSFkcRk/FXXf3oYqkg+lIKMlGhI2mKHOUw=
+			p1Vaf4D0DezKvK3zNxqw5r/vkD8THTdnxJ8obO9fg0s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -290,7 +294,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q70Y7qG1AMeI7PVyMot0NMlHO2FqJEk8RcAfBlpfalE=
+			k0EMQAmzOSFJ6j4gIpdygL2gYjTL+0BZ4Fd2Im2E9gM=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kFxE1Qt/+JhfHlLZ9GYzN6q5lu4VwulOyesFANqj0HA=
 			</data>
 		</dict>
 		<key>ar-001.lproj/Localizable.strings</key>
