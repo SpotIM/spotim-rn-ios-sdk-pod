@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'RNSpotIMCore'
-  s.version          = '1.18.9-xcode15.4'
+  s.version          = '1.18.10-xcode16'
   s.swift_versions = ['5.0']
   s.summary          = 'OpenWeb SDK'
   s.description      = 'This SDK allows you to integrate OpenWeb iOS SDK into your RN app.'
